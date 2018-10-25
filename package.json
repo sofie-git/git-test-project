@@ -1,0 +1,10 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Sofie Patoor <sofie.patoor@student.howest.be>",
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "^4.23.0"
+  }
+}
